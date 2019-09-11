@@ -12,5 +12,5 @@ function logWhisper(string) {
 }
 var greeting = "HELLO, GRANDMA"
 if (greeting === "hello, grandma") {
-    console.log("The greeting is")
+    console.log("The greeting is correct")
 } 
