@@ -15,4 +15,6 @@ if (greeting === "hello, grandma") {
     console.log("The greeting is correct")
 } 
 
-function sayHiToGrandma(string)
+function sayHiToGrandma(string){
+  
+}
