@@ -20,7 +20,4 @@ function sayHiToGrandma(string){
   var lowercase = "hello"
   if string === lowercase {
   if string === string.toLowerCase())}
-  return 
-    
-  }
-}
+  return "I can't hear you!"
